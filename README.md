@@ -5,6 +5,9 @@ MNMN (read it as: Manamanà) is a side project that provides the summary of inte
 For now it is limited to a list of the best Hacker News articles every week, based on [this ranking] (https://news.ycombinator.com/best).
 
 #### You can find the [weekly summaries here](https://github.com/simonebrunozzi/MNMN/tree/master/Weekly-Summaries).
+
+Note that the name of the summaries is in the form of YYYY-WW (year, week).
+
 ---
 
 If you like this project and want to donate with Bitcoin:
