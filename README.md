@@ -13,3 +13,5 @@ If you like this project and want to donate with Bitcoin:
 
 Bitcoin Address: 1NXxqnTNpvUPQQMkizBAYAGheqd3LiL3YX
 
+You can see how much has been donated so far [here] (https://blockchain.info/address/1NXxqnTNpvUPQQMkizBAYAGheqd3LiL3YX).
+
